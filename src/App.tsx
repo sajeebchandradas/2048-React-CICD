@@ -16,7 +16,7 @@ export const App = () => {
     <div className="App">
       <div className="header">
         <div>
-          <h1>Play 2048</h1>
+          <h1>Play 2048 Game</h1>
         </div>
         <div>
           <Button onClick={handleRestart}>Restart</Button>
