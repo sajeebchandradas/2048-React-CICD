@@ -1,6 +1,6 @@
 DevSecOps : Jenkins CI/CD Pipeline for Deploying the 2048 Game on Docker and Kubernetes with Full Observability & Metrics Archival using Amazon S3
 
-I recently built a complete DevSecOps + Observability pipeline to deploy the 2048 React game using Jenkins CI/CD, Docker, Kubernetes, Prometheus, Grafana, with integrated security scanning and long-term metrics storage using Amazon S3 — turning it into a production-style environment..
+I recently built a complete DevSecOps + Observability pipeline to deploy the 2048 React game using Jenkins CI/CD, Docker, Kubernetes, Prometheus, Grafana, with integrated security scanning and long-term metrics storage using Amazon S3 — turning it into a production-style environment.
 
 📘 Project Overview:
 
